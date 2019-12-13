@@ -1,0 +1,14 @@
+E:\Projects\Hackathon\Core\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\Projects\Hackathon\Core\bin\Debug\netcoreapp2.1\Core.deps.json
+E:\Projects\Hackathon\Core\bin\Debug\netcoreapp2.1\Core.runtimeconfig.json
+E:\Projects\Hackathon\Core\bin\Debug\netcoreapp2.1\Core.runtimeconfig.dev.json
+E:\Projects\Hackathon\Core\bin\Debug\netcoreapp2.1\Core.dll
+E:\Projects\Hackathon\Core\bin\Debug\netcoreapp2.1\Core.pdb
+E:\Projects\Hackathon\Core\obj\Debug\netcoreapp2.1\Core.csprojAssemblyReference.cache
+E:\Projects\Hackathon\Core\obj\Debug\netcoreapp2.1\Core.RazorAssemblyInfo.cache
+E:\Projects\Hackathon\Core\obj\Debug\netcoreapp2.1\Core.RazorAssemblyInfo.cs
+E:\Projects\Hackathon\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfoInputs.cache
+E:\Projects\Hackathon\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfo.cs
+E:\Projects\Hackathon\Core\obj\Debug\netcoreapp2.1\Core.RazorTargetAssemblyInfo.cache
+E:\Projects\Hackathon\Core\obj\Debug\netcoreapp2.1\Core.dll
+E:\Projects\Hackathon\Core\obj\Debug\netcoreapp2.1\Core.pdb
