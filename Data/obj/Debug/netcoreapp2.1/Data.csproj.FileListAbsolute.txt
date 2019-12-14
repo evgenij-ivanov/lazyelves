@@ -12,3 +12,17 @@ E:\Projects\Hackathon\Data\obj\Debug\netcoreapp2.1\Data.AssemblyInfo.cs
 E:\Projects\Hackathon\Data\obj\Debug\netcoreapp2.1\Data.RazorTargetAssemblyInfo.cache
 E:\Projects\Hackathon\Data\obj\Debug\netcoreapp2.1\Data.dll
 E:\Projects\Hackathon\Data\obj\Debug\netcoreapp2.1\Data.pdb
+D:\projects\cc2019\Data\bin\Debug\netcoreapp2.1\Data.deps.json
+D:\projects\cc2019\Data\bin\Debug\netcoreapp2.1\Data.runtimeconfig.json
+D:\projects\cc2019\Data\bin\Debug\netcoreapp2.1\Data.runtimeconfig.dev.json
+D:\projects\cc2019\Data\bin\Debug\netcoreapp2.1\Data.dll
+D:\projects\cc2019\Data\bin\Debug\netcoreapp2.1\Data.pdb
+D:\projects\cc2019\Data\obj\Debug\netcoreapp2.1\Data.csprojAssemblyReference.cache
+D:\projects\cc2019\Data\obj\Debug\netcoreapp2.1\Data.csproj.CoreCompileInputs.cache
+D:\projects\cc2019\Data\obj\Debug\netcoreapp2.1\Data.RazorAssemblyInfo.cache
+D:\projects\cc2019\Data\obj\Debug\netcoreapp2.1\Data.RazorAssemblyInfo.cs
+D:\projects\cc2019\Data\obj\Debug\netcoreapp2.1\Data.AssemblyInfoInputs.cache
+D:\projects\cc2019\Data\obj\Debug\netcoreapp2.1\Data.AssemblyInfo.cs
+D:\projects\cc2019\Data\obj\Debug\netcoreapp2.1\Data.RazorTargetAssemblyInfo.cache
+D:\projects\cc2019\Data\obj\Debug\netcoreapp2.1\Data.dll
+D:\projects\cc2019\Data\obj\Debug\netcoreapp2.1\Data.pdb
