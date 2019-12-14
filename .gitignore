@@ -1,1 +1,7 @@
+#folder
 .vs
+obj/
+bin/
+*/obj/**
+*/obj/*
+*/bin/**
