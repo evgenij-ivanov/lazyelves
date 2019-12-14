@@ -34,5 +34,7 @@ namespace Data.Repositories.Interfaces
         int Count { get; }
 
         TEntity Detach(TEntity entry);
+
+        Task<int> Save();
     }
 }

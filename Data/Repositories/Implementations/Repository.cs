@@ -107,6 +107,12 @@ namespace Data.Repositories.Implementations
             _context.Entry(t).State = EntityState.Modified;
         }
 
+        public async Task<int> Save()
+        {
+            var result = await _context.SaveChangesAsync();
+            return result;
+        }
+
         protected virtual void Dispose(bool disposing)
         {
             if (!disposing)
